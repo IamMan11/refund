@@ -4,6 +4,6 @@
 
 <style>
 body {
-    font-style: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 </style>
